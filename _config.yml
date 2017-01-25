@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+
+title: LoginExchange
+description: A fake site to illustrate the dangers of phishing.
+
+# 3rd-party keys
+google_analytics: UA-90338237-1
