@@ -4,7 +4,7 @@ Recently, while visiting family, the topic of online security came up.  My famil
 
 # How does it work?
 
-There's a fake site [here](/www.facebook.com/) which looks like a real Facebook login page.  If a visitor attempts to log in, an overlay pops up explaining that it's a fake site, with a link to [further advice](how-to-avoid-getting-phished) on how to avoid this in future.  Nothing the visitor entered is transmitted from the browser.
+There's a fake site [here](https://loginexchange.github.io/www.facebook.com/) which looks like a real Facebook login page.  If a visitor attempts to log in, an overlay pops up explaining that it's a fake site, with a link to [further advice](https://loginexchange.github.io/how-to-avoid-getting-phished) on how to avoid this in future.  Nothing the visitor entered is transmitted from the browser.
 
 # How reliable is the advice?
 
