@@ -26,5 +26,6 @@ onloadRegister_DEPRECATED(function (){try { $("email").focus(); } catch (_ignore
 <link type="text/css" rel="stylesheet" href="../styles.css" />
 <script type="text/javascript" src="../script.js"></script>
 <script>
+    if (window.isMobile()) { window.location = '/m.facebook.com'; }
     setupLoginForm('login_form');
 </script>
